@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-DNKK/Alias/*
-DNKK/NavData/*
-DNKK/ICAO/*
-DNKK/Sounds/*
+DNKK/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
