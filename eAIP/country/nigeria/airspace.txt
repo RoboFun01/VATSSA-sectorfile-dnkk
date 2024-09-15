@@ -3,7 +3,7 @@
 === Airspace ===
 
 ^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
-| DNKK  | Kano | [[DNKK]] | -       | - |
+| DNKK  | Kano | [[airspace:dnkk:home|DNKK]] | -       | - |
 
 
 

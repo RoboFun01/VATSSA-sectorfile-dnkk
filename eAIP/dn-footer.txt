@@ -1,22 +1,22 @@
 ==== Nigeria ====
 ----
 
-//This page is a subsection of the [[Nigeria]] country page.//
+//This page is a subsection of the [[country:nigeria:home|Nigeria]] country page.//
 
 ==== DNKK ====
 
 ----
 
-[[DNKK]] Kano FIR | v0.1
+[[airspace:dnkk:home|DNKK]] Kano FIR | v0.1
 
 ==== DNAA ====
 
 ----
 
-[[DNAA]] Nnamdi Azikiwe Intl | v0.1 | [[DNKK]] Kano FIR
+[[airport:dnaa:home|DNAA]] Nnamdi Azikiwe Intl | v0.1 | [[airspace:dnkk:home|DNKK]] Kano FIR
 
 ==== DNMM ====
 
 ----
 
-[[DNMM]] Murtala Muhammed Intl | v0.1 | [[DNKK]] Kano FIR
+[[airport:dnmm:home|DNMM]] Murtala Muhammed Intl | v0.1 | [[airspace:dnkk:home|DNKK]] Kano FIR
