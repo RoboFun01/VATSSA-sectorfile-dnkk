@@ -1,0 +1,70 @@
+===== DNMM Information =====
+
+Murtala Muhammed International Airport is an international airport located in Ikeja, Lagos State, [[Nigeria]], and is the major airport serving the entire state. The airport was initially built during World war II and is named after Murtala Muhammed (1938–1976), the fourth military ruler of Nigeria. 
+
+
+==== Aerodrome Data ====
+
+| ICAO                  | DNMM |
+| IATA                  | LOS |
+| Elevation             | 138 ft |
+| Transition Altitude   | 3500 ft |
+| Transition Level      | FL50 |
+| Mag Variation         | 02º W |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Murtala_Muhammed_International_Airport&params=06_34_38_N_003_19_16_E_type:airport_region:NG|06°34′38″N 003°19′16″E]] |
+| Site | [[https://faan.gov.ng/mmia/]] |
+
+
+==== Runways ====
+
+^ Runway    ^ Heading   ^ TORA (m)  ^ TODA (m)  ^ ASDA (m)  ^ LDA (m)   ^ Remarks ^
+| 36R       | 001º      | 2745      | 2745      | 2805      | 2745      | - |
+| 18L       | 181º      | 2745      | 2745      | 2788      | 2745      | - |
+| 36L       | 001º      | 3900      | 3900      | 4020      | 3900      | - |
+| 18R       | 181º      | 3900      | 3900      | 4020      | 3900      | - |
+
+  * DNMM is not certified for simultaneous or parallel approaches/landings.
+
+
+==== Aprons ====
+
+^ Apron Type            ^ Code  ^ Stands    ^ Entry / Exit  ^ Remarks ^
+| International 1       | -     | D31-E66   | F1-F2-F3-F4   | - |
+| International 2       | -     | C11-C24A  | F5            | - |
+| Domestic 1            | -     | 1-6       | C2            | - |
+| Domestic 2            | -     | A1-B8     | C             | - |
+| Cargo                 | -     | -         | A             | - |  
+| Business / FBO        | -     | -         | B4            | - |
+| General Aviation      | -     | -         | C2-C          | - |
+| Presidential / VIP    | -     | -         | C             | - |
+| Military              | -     | -         | C             | - |
+| |||||
+| //Be aware of the similar stand numbers for International 2 and Domestic 2.// |||||
+
+
+
+==== Positions & Frequencies ====
+
+^ Position      ^ Callsign          ^ Frequency ^ Remarks ^
+| DNMM_ATIS     | Lagos ATIS        | 123.800   | - |
+| DNMM_DEL      | Lagos Delivery    | 119.100   | //SSA Events Only// |
+| DNMM_P_DEL    | Lagos Planner     | 119.700   | //SSA Events Only// |
+| DNMM_GND      | Lagos Ground      | 121.900   | - |
+| DNMM_E_GND    | Lagos Ground      | 121.100   | //SSA Events Only// |
+| DNMM_TWR      | Lagos Tower       | 118.100   | - |
+| DNMM_APP      | Lagos Approach    | 124.700   | - |
+| DNMM_CTR      | Lagos East        | 120.900   | //FIR Split// |
+| DNKK_CTR      | Kano East         | 124.100   | - |
+
+
+==== Airspace ====
+
+^ Airspace      ^ Class ^ Owner ^ Limits        ^ Remarks ^
+| Lagos CTR     | D | DNMM_TWR | GND - A015     | - |
+| Lagos TMA     | B | DNMM_APP | A015 - FL145   | - |
+| Lagos ACC     | B | DNMM_CTR | FL045 - FL145  | - |
+| Lagos ACC     | A | DNMM_CTR | FL145 - FL460  | //FIR Split// |
+| Kano FIR/UIR  | A | DNKK_CTR | FL145 - UNLTD  | - |
+
+
+{{page>dn-footer#DNMM}}

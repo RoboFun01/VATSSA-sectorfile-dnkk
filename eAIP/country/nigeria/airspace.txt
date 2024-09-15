@@ -1,0 +1,10 @@
+==== Nigeria Airspace ====
+
+=== Airspace ===
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| DNKK  | Kano | [[DNKK]] | -       | - |
+
+
+
+{{page>dn-footer#Nigeria}}

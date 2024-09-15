@@ -1,0 +1,54 @@
+===== DNAA Pilot Briefing =====
+
+Pilots taking part in events that depart from or arrive to DNAA should make themselves familiar with this briefing page as well as with all existing charts.
+
+==== Overview ====
+
+==== Departure Briefing ====
+
+  * When connecting to the network, take care in observing which gates and parking positions are available.
+
+=== Departure Timeline ===
+
+  * For Cross Africa flights, your slot time is represented as a CTOT (Calculated Take off Time).
+  * You'll be expected to push-back at TOBT (Target Off Block Time) between 15 and 20 minutes before CTOT (depending on how the traffic is flowing at that time).
+  * As far as Clearance is concerned, you can request it at any time before TOBT, as long as you'll be ready for push-back at TOBT. We suggest you request your clearance at least 15 minutes before TOBT.
+  * You should not need to connect to the network more than 60 minutes before your CTOT.
+
+
+=== Clearance Delivery ===
+
+  * DNAA_GND will be the Position responsible for providing you with a Departure Clearance.
+  * For Cross Africa flights, pilots will be given a Cruise Flight Level that allows for en-route separation. It might not match your Requested Flight Level.
+  * You may be given a Runway Heading as a Departure Procedure.
+  * Be aware that some scenery packages may not provide for the exact same parking positions as displayed on charts.
+
+
+
+=== Ground Operations ===
+
+  * DNAA_GND will be the Position responsible for providing push-back and taxiing instructions.
+  * Remember to squawk Mode C before taxiing.
+  * If told to monitor a frequency, you're expected to tune in the frequency but not to contact the controller. He will contact you when able.
+  * When approaching the runway, you'll be asked to report fully ready for departure. That means that when given line-up or take-off clearance, you're expected to be ready to do so without delay. If you need more time, please advise the tower.
+
+=== Departure Operations ===
+
+  * Comply with your assigned departure procedure and do not climb above your initial Climb Altitude unless instructed so.
+  * You may be given intermediate climb instructions due to traffic. Do not climb above any assigned flight level.
+  * Comply with any speed restrictions if provided. They are important to maintain adequate separation between traffic.
+  * You may be transferred from Tower directly to Kano Control. That's ok.
+  * Transition Altitude at DNAA is 5000 feet.
+
+
+=== Arrival Operations ===
+
+  * When told to descend via the STAR, please comply with both speed and altitude restrictions.
+  * Expect further speed restrictions. These are critical to ensure proper arrival and approach separation.
+  * The Arrivals should position you perfectly for the ILS approaches at either runway. However, be prepared to be vectored if needed.
+  * Once landed, make your best effort to vacated at A5 (if landing runway 22) or A3 (if landing runway 04) as these are the High Speed exits. The faster we can get you off the runway, the faster we can land the next aircraft and keep the flow moving.
+
+
+
+
+{{page>dn-footer#DNAA}}

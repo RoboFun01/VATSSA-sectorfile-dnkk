@@ -1,0 +1,9 @@
+==== Nigeria Airports ====
+
+^ ICAO      ^ Name                  ^ City          ^ Page Status        ^ Remarks ^
+| [[DNAA]]  | Nnamdi Azikiwe Intl   | Abuja         | In Development     | - |
+| [[DNMM]]  | Murtala Muhammed Intl | Lagos         | Active             | - |
+
+
+
+{{page>dn-footer#Nigeria}}
